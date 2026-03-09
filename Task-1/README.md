@@ -2,10 +2,10 @@
 
 This project is part of an AI & ML Internship task to clean and preprocess the Titanic dataset to make it suitable for machine learning.
 
-## 📁 Dataset
+## Dataset
 The dataset used is the Titanic survival data (`titanic.csv`), which includes passenger details such as age, sex, class, fare, etc.
 
-## 🔍 Steps Performed
+## Steps Performed
 
 ### 1. Data Exploration
 - Loaded the dataset using Pandas
@@ -27,7 +27,7 @@ The dataset used is the Titanic survival data (`titanic.csv`), which includes pa
 - Visualized outliers using boxplots
 - Removed outliers in `Fare` column using the IQR method
 
-## ⚙️ Tools Used
+## Tools Used
 - Python
 - Google Colab
 - Pandas
@@ -36,10 +36,10 @@ The dataset used is the Titanic survival data (`titanic.csv`), which includes pa
 - Matplotlib
 - Scikit-learn
 
-## 📦 Output
+## Output
 A cleaned and preprocessed version of the Titanic dataset stored as `titanic_cleaned.csv`, ready to be used for machine learning tasks.
 
-## 🔗 Project Structure
+## Project Structure
 ├── titanic.csv # Original dataset (uploaded manually in Colab)
 ├── Titanic_Preprocessing.ipynb # Main notebook with all preprocessing steps
 ├── titanic_cleaned.csv # Output CSV after preprocessing
