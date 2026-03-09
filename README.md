@@ -95,5 +95,5 @@ Elevate-Labs-AIML-Internship
 
 # Author
 
-**Hari Keerthana**  
+**K Hari Keerthana**  
 AI/ML Intern – Elevate Labs  
