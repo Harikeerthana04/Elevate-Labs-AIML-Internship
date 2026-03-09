@@ -1,16 +1,16 @@
-# 🧠 Task 8: K-Means Clustering - Mall Customer Segmentation
+# Task 8: K-Means Clustering - Mall Customer Segmentation
 
 This task is part of an AI & ML Internship project focused on applying unsupervised learning using **K-Means Clustering**. The goal is to segment mall customers into distinct groups based on their spending patterns and income.
 
 ---
 
-## 📌 Objective
+## Objective
 
 To implement **K-Means Clustering** on the Mall Customer dataset and determine optimal clusters using the **Elbow Method** and **Silhouette Score**, and then visualize the customer segments.
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 **Mall_Customers.csv**  
 - Columns used:  
@@ -21,7 +21,7 @@ Download Source: [Mall Customers Dataset (Kaggle)](https://www.kaggle.com/datase
 
 ---
 
-## 🧪 Tools & Libraries Used
+## Tools & Libraries Used
 
 - Python 🐍
 - Pandas
@@ -31,7 +31,7 @@ Download Source: [Mall Customers Dataset (Kaggle)](https://www.kaggle.com/datase
 
 ---
 
-## 🔍 Steps Performed
+## Steps Performed
 
 1. **Loaded and explored the dataset**  
 2. **Selected relevant features** (`Annual Income`, `Spending Score`)  
@@ -44,13 +44,13 @@ Download Source: [Mall Customers Dataset (Kaggle)](https://www.kaggle.com/datase
 
 ---
 
-## 📈 Elbow Method Result
+## Elbow Method Result
 
 The Elbow Method plot showed a clear "elbow" at **K = 5**, suggesting that 5 clusters are optimal.
 
 ---
 
-## 📌 Final Results
+## Final Results
 
 - **Optimal Clusters (K):** 5
 - **Silhouette Score:** _e.g._ `0.55` (value may vary slightly)
@@ -68,7 +68,7 @@ The Elbow Method plot showed a clear "elbow" at **K = 5**, suggesting that 5 clu
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 Task-8-KMeans-Clustering/
 │
