@@ -1,11 +1,11 @@
-# 🧠 Task 5: Decision Trees and Random Forests - AI & ML Internship
+# Task 5: Decision Trees and Random Forests - AI & ML Internship
 
-## 📌 Objective
+## Objective
 To understand and implement tree-based models (Decision Trees and Random Forests) for classification tasks. The goal is to visualize decision trees, evaluate model performance, and interpret feature importance.
 
 ---
 
-## 📁 Dataset
+## Dataset
 **Heart Disease Dataset**
 
 - **Source**: [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) or [Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
@@ -13,7 +13,7 @@ To understand and implement tree-based models (Decision Trees and Random Forests
 
 ---
 
-## ⚙️ Tools & Libraries
+## Tools & Libraries
 - Python
 - pandas, numpy
 - scikit-learn
@@ -47,7 +47,7 @@ To understand and implement tree-based models (Decision Trees and Random Forests
 
 ---
 
-## ✅ Results
+## Results
 
 | Model             | Accuracy |
 |------------------|----------|
@@ -59,7 +59,7 @@ To understand and implement tree-based models (Decision Trees and Random Forests
 
 ---
 
-## 📌 Key Learnings
+## Key Learnings
 
 - Decision Trees are interpretable but prone to overfitting.
 - Random Forests provide better generalization by averaging multiple trees.
@@ -69,9 +69,9 @@ To understand and implement tree-based models (Decision Trees and Random Forests
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
-📦 Task5_DecisionTrees
+Task5_DecisionTrees
 ├── heart.csv # Dataset
 ├── Task5_DecisionTree_RF.ipynb # Notebook file with all steps
 ├── tree_visualization.png # (Optional) Tree plot
